@@ -5,7 +5,7 @@
 # Student Name     : Kervin Rodriguez
 # Course           : Python Course
 # Instructor       : Zach Feezer
-# Date             : March 17, 2020
+# Date             : July 05, 2020
 # -------------------------------------------------------------------------------
 
 # Replace RPG starter project with this code when new instructions are live
